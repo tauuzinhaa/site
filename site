@@ -1,10 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8">
+    <title>Tauu Nails</title>
+    <link rel="stylesheet" href="style.css"
+    
+    <style>
+      p{
+          text-aling: center
+      }
+    </style>
+    
+  </head>
+  
+  <body>
 
-<h1> Tauu Nails</h1>
+    <h1 style="text-aling: center"> Tauu Nails</h1>
 
-<p>Atendimento na cidade de Piraquara e região metropolitana a <strong>Tauu Nails</strong> o melhor lugar para você fazer suas unhas. 
-Fundada em 2022, a Tauu Nails conquista cada dia mais suas clientes com o melhor preço e qualidade.</p>
+    <p>Atendimento na cidade de Piraquara e região metropolitana a <strong>Tauu Nails</strong> o melhor lugar para você fazer suas unhas. 
+    Fundada em 2022, a Tauu Nails conquista cada dia mais suas clientes com o melhor preço e qualidade.</p>
 
-<p><em>A missão é:<strong> deixar as unhas das clientes elegantes.</strong></em></p>
+    <p style="font-size: 20px"><em>A missão é:<strong> deixar as unhas das clientes elegantes.</strong></em></p>
 
-<p>O atendimento possui excelência e agilidade, garantindo satisfação das nossas clientes.</p>
+    <p>O atendimento possui excelência e agilidade, garantindo satisfação das nossas clientes.</p>
+   
+   </body>
+</html>
 
