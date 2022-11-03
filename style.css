@@ -2,6 +2,10 @@ body{
     background: #CCCCCC
 }
 
+#banner{
+
+}
+
 h1{
      "text-aling: center"
 }
@@ -10,4 +14,10 @@ p{
     text-aling: center;
 }
 
-strong
+#missao{
+     font-size: 20px
+}
+
+em strong {
+    color: #FF0000;
+}
