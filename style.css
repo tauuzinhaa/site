@@ -19,11 +19,11 @@ body{
      "text-aling: center"
 }
 
-p{
+p {
     text-aling: center;
 }
 
-#missao{
+#missao {
      font-size: 20px
 }
 
@@ -49,5 +49,5 @@ ul{
 }
 
 .imagembeneficios {
-    width: 50%;
+    width: 40%;
 }
